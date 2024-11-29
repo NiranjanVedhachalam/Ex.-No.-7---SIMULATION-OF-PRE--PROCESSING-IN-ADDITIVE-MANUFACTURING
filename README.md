@@ -39,11 +39,15 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![Web_Photo_Editor](https://github.com/user-attachments/assets/f788d34b-297b-4987-9d92-810a8df57ea6)
+![Untitled Project](https://github.com/user-attachments/assets/3aa612f9-e06f-4ed8-9ea9-41c09d2fa098)
+![Untitled Project (1)](https://github.com/user-attachments/assets/27f2a930-2dc0-4a5b-96b5-ddc5596c04db)
+
+
 
 ## Output:
+![Screenshot 2024-11-29 134035](https://github.com/user-attachments/assets/d347ac98-abd1-44af-b5ec-bfb6937706a8)
+
 
 ### Name:
 ### Register Number:
